@@ -3,6 +3,11 @@
 Quickly built using [Svelte Keyboard](https://github.com/russellsamora/svelte-keyboard) by Russell.
 
 
+### Use
+run `yarn`
+run `yarn build`
+script will output at `\dist\InjectableVirtualKeyboard.js`
+
 ### Why?
 I needed a virtual keyboard for a stand alone touch device for an authentication service. This is probably not the most elegent solution for this.
 
