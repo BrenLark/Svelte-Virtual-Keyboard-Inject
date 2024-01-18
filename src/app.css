@@ -1,0 +1,13 @@
+body.virtualKeyboardOpen {
+  padding-bottom: 240px;
+}
+body.virtualKeyboardOpen #virtualKeyboardSvelte {
+  display: block;
+}
+
+#virtualKeyboardSvelte {
+  display: none;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
